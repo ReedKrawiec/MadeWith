@@ -1,0 +1,109 @@
+[  
+   {  
+      "name":"Typer",
+      "desc":"A react component that mimics a typing effect.",
+      "lang":"React",
+      "tags":[  
+         "React",
+         "Javascrpit",
+         "Typescript"
+      ],
+      "sites":[  
+         {  
+            "name":"Typer",
+            "link":"https://github.com/ReedKrawiec/TyperComponent"
+         }
+      ],
+      "author":"Reed Krawiec"
+   },
+   {  
+      "name":"Alphadata",
+      "desc":"A simple database for use in desktop applications.",
+      "lang":"Typescript",
+      "tags":[  
+         "database",
+         "javascript",
+         "typescript"
+      ],
+      "sites":[  
+         {  
+            "name":"Github",
+            "link":"https://github.com/ReedKrawiec/AlphaData"
+         },
+         {  
+            "name":"NPM",
+            "link":"https://www.npmjs.com/package/alphadata"
+         }
+      ],
+      "author":"Reed Krawiec"
+   },
+   {  
+      "name":"MadeWith",
+      "desc":"A project viewing site made to practice the Vue library.",
+      "lang":"Vue.js",
+      "tags":[  
+         "Javascript",
+         "Vue"
+      ],
+      "sites":[  
+         {  
+            "name":"Github",
+            "link":"https://github.com/ReedKrawiec/MadeWith"
+         }
+      ],
+      "author":"Reed Krawiec"
+   },
+   {  
+      "name":"KappaKlicker",
+      "desc":"A cookie clicker parody Made to practice React and Redux.",
+      "lang":"React",
+      "tags":[  
+         "React",
+         "Redux",
+         "Javascript"
+      ],
+      "sites":[  
+         {  
+            "name":"Github",
+            "link":"https://github.com/ReedKrawiec/Kappa-Klicker"
+         },
+         {  
+            "name":"Demo",
+            "link":"http://reedkrawiec.github.io/Kappa-Klicker/"
+         }
+      ],
+      "author":"Reed Krawiec"
+   },
+   {  
+      "name":"PassCMD",
+      "desc":"A command line password manager, made with Node",
+      "lang":"Node",
+      "tags":[  
+         "Node"
+      ],
+      "sites":[  
+         {  
+            "name":"Github",
+            "link":"https://github.com/ReedKrawiec/PassCMD"
+         }
+      ],
+      "author":"Reed Krawiec"
+   },
+   {  
+      "name":"Simp",
+      "desc":"Typescript library for working with dates",
+      "lang":"Typescript",
+      "tags":[  
+         "Typescript",
+         "Javascript",
+         "Dates"
+      ],
+      "sites":[  
+         {  
+            "name":"Github",
+            "link":"https://github.com/ReedKrawiec/Simp"
+         }
+      ],
+      "author":"Reed Krawiec"
+   }
+]

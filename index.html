@@ -1,0 +1,21 @@
+<html>
+ <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <link rel="stylesheet" type="text/css" href="assets/css/main.min.css" />
+    <title>Reed Krawiec</title>
+  </head>
+  <body>
+   <div id="appRoot">
+    <div class="titlebanner">
+      <p class="text">MadeWith</p>
+    </div>
+    <div class="positioner">
+      <input v-on:change="setString" class="userinput" />
+      <div class="content">
+        <entry-container :entries="filterEntries"></entry-container>
+      </div>
+    </div>
+   </div>
+   <script src="assets/scripts/main.min.js"></script>
+  </body>
+</html>
